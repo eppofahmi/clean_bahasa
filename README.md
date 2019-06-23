@@ -5,3 +5,5 @@
 
 # sadasaR
 Function documentation of learning R and data exploration and practices of exploring unstructured textual data.
+
+`Install from GitHub: devtools::install_github("eppofahmi/sadasaR")`
