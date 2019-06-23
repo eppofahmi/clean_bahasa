@@ -3,5 +3,5 @@
 [![Coverage Status](https://coveralls.io/repos/github/eppofahmi/clean_bahasa/badge.svg?branch=master)](https://coveralls.io/github/eppofahmi/clean_bahasa?branch=master)
 [![HitCount](http://hits.dwyl.io/eppofahmi/clean_bahasa.svg)](http://hits.dwyl.io/eppofahmi/clean_bahasa)
 
-# clean_bahasa
-An R Package to clean text in Bahasa Indonesia
+# sadasaR
+Function documentation of learning R and data exploration and practices of exploring unstructured textual data.
