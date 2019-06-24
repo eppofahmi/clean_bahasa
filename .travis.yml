@@ -1,2 +1,5 @@
 language: r
 r_github_packages: eppofahmi/clean_bahasa
+
+after_success:
+  - Rscript -e 'covr::coveralls()'
