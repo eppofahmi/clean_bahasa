@@ -1,3 +1,2 @@
 language: r
-before_install:
-  - cd clean_bahasa
+r_github_packages: eppofahmi/clean_bahasa
