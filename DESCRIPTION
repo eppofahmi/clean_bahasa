@@ -1,4 +1,4 @@
-Package: sadasaR
+Package: cleanBahasa
 Type: Package
 Title: Cleaning and Wrangling Text
 Version: 0.1.0
@@ -8,8 +8,8 @@ Description: Function documentation of learning R and data exploration
     and practices of exploring unstructured textual data.
 License: GPL-3
 Encoding: UTF-8
-LazyData: true  
+LazyData: true
 RoxygenNote: 6.1.1
-Imports: 
-    textclean,
-    dplyr
+Imports: textclean, dplyr
+NeedsCompilation: no
+Packaged: 2019-06-24 03:14:50 UTC; ujangfahmi

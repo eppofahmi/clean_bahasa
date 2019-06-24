@@ -21,7 +21,7 @@ Used to nomalised text of a column in a data frame based on user defined
 normalisation lexicon
 }
 \examples{
-library(sadasaR)
+library(cleanBahasa)
 sample_text <- data.frame(text = c("ak ad kerjaan", "dia sdh pergi"))
 kt_normal <- data.frame(from = c("ad", "ak", "sdh"),
                         to = c("ada", "aku", "sudah"))

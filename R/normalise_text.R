@@ -12,7 +12,7 @@
 #' @importFrom dplyr bind_cols
 #'
 #' @examples
-#' library(sadasaR)
+#' library(cleanBahasa)
 
 #' sample_text <- data.frame(text = c("ak ad kerjaan", "dia sdh pergi"))
 #' kt_normal <- data.frame(from = c("ad", "ak", "sdh"),
