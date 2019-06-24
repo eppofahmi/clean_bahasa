@@ -4,6 +4,6 @@
 [![HitCount](http://hits.dwyl.io/eppofahmi/clean_bahasa.svg)](http://hits.dwyl.io/eppofahmi/clean_bahasa)
 
 # sadasaR
-Function documentation of learning R and data exploration and practices of exploring unstructured textual data.
+Wrangling and cleaning textual data in Bahasa Indonesia
 
-`Install from GitHub: devtools::install_github("eppofahmi/sadasaR")`
+`Install from GitHub: devtools::install_github("eppofahmi/clean_bahasa")`

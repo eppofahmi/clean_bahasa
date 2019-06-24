@@ -1,6 +1,6 @@
 Package: sadasaR
 Type: Package
-Title: Exploring Data
+Title: Cleaning and Wrangling Text
 Version: 0.1.0
 Author: Ujang Fahmi 
 Maintainer: Ujang Fahmi <eppofahmi@gmail.com>
