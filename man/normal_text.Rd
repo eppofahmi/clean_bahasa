@@ -26,6 +26,7 @@ sample_text <- data.frame(text = c("ak ad kerjaan", "dia sdh pergi"))
 kt_normal <- data.frame(from = c("ad", "ak", "sdh"),
                         to = c("ada", "aku", "sudah"))
 
-test_01 <- normal_text(data_name = sample_text, col_name = "text", nomral_lex = kt_normal)
+test_01 <- normal_text(data_name = sample_text,
+col_name = "text", nomral_lex = kt_normal)
 
 }
