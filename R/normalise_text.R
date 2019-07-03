@@ -24,7 +24,7 @@
 #' @export
 
 normal_text <- function(data_name, col_name, nomral_lex) {
-  data1 <- as.data.frame(sample_text)
+  data1 <- as.data.frame(data_name)
   column <- as.character(col_name)
   kt_normal <- nomral_lex
 
@@ -33,7 +33,7 @@ normal_text <- function(data_name, col_name, nomral_lex) {
   pattern1 <- as.character(kt_normal$from)
   replacement1 <- as.character(kt_normal$to)
 
-  data2 <- as.character(sample_text[, 1])
+  data2 <- as.character(data_name[, 1])
 
   data2 <- textclean::mgsub_regex(data2, pattern = pattern1, replacement = replacement1, fixed = FALSE)
   data2 <- data.frame(data2)

@@ -2,8 +2,12 @@
 
 export(clean_text)
 export(normal_text)
+export(top_group)
 importFrom(dplyr,bind_cols)
 importFrom(dplyr,data_frame)
+importFrom(dplyr,group_by)
+importFrom(dplyr,top_n)
+importFrom(magrittr,"%>%")
 importFrom(stopwords,stopwords)
 importFrom(textclean,mgsub_regex)
 importFrom(textclean,replace_white)

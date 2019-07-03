@@ -13,6 +13,7 @@ RoxygenNote: 6.1.1
 Imports: 
     textclean,
     dplyr,
-    stopwords
+    stopwords,
+    magrittr
 NeedsCompilation: no
 Packaged: 2019-06-24 03:14:50 UTC; ujangfahmi
