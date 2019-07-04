@@ -1,4 +1,4 @@
-#' top_group
+#' Top n by group 
 #' 
 #' Taking top n by group in a column
 #' 

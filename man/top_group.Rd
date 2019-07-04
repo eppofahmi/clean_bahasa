@@ -2,7 +2,7 @@
 % Please edit documentation in R/top_group.R
 \name{top_group}
 \alias{top_group}
-\title{top_group}
+\title{Top n by group}
 \usage{
 top_group(data, groupx, columnx, n)
 }

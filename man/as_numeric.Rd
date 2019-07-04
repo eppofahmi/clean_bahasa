@@ -2,7 +2,7 @@
 % Please edit documentation in R/as_numeric.R
 \name{as_numeric}
 \alias{as_numeric}
-\title{as_numeric}
+\title{multiple variavble as numeric}
 \usage{
 as_numeric(data, col_name)
 }

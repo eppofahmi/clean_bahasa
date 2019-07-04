@@ -1,4 +1,4 @@
-#' as_numeric
+#' Convert multiple variavble as numeric
 #' 
 #' Convert multiple variable (column) as numeric variable
 #' 

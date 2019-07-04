@@ -2,7 +2,7 @@
 % Please edit documentation in R/clean_stopwordsId.R
 \name{clean_text}
 \alias{clean_text}
-\title{clean_text}
+\title{Delete Indonesian stopwords}
 \usage{
 clean_text(data_name, col_name)
 }

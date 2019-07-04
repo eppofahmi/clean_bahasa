@@ -1,4 +1,4 @@
-#' clean_text
+#' Delete Indonesian stopwords
 #'
 #' Used to strip out stopwords bahasa Indoensia
 #'
