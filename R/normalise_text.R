@@ -12,6 +12,7 @@
 #' @importFrom dplyr bind_cols
 #'
 #' @examples
+#' \dontrun{
 #' library(cleanBahasa)
 
 #' sample_text <- data.frame(text = c("ak ad kerjaan", "dia sdh pergi"))
@@ -20,6 +21,7 @@
 #'
 #' test_01 <- normal_text(data_name = sample_text,
 #' col_name = "text", nomral_lex = kt_normal)
+#' }
 #'
 #' @export
 

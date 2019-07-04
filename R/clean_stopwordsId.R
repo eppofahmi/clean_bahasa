@@ -13,13 +13,15 @@
 #' @importFrom stopwords stopwords
 #'
 #' @examples
+#' \dontrun{
 #' library(cleanBahasa)
 
 #' sample_text <- data.frame(text = c("di kantor saya sedang ada banyak kerjaan",
 #' "kami akan pergi dengan mobil "))
 #'
 #' test_01 <- clean_text(data_name = sample_text, col_name = "text")
-#'
+#' }
+#' 
 #' @export
 
 clean_text <- function(data_name, col_name) {

@@ -22,11 +22,13 @@ Top n by group
 Taking top n by group in a column
 }
 \examples{
+\dontrun{
 library(cleanBahasa)
 data <- data.frame(
 col_1   = runif(90),
 col_2 = gl(3, 30))
 
 data <- top_group(data, "col_1", "col_2", 5)
+}
 
 }

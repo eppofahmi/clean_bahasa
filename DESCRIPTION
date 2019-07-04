@@ -1,6 +1,6 @@
 Package: cleanBahasa
 Type: Package
-Title: Cleaning and Wrangling Text
+Title: Cleaning, Wrangling, and Exploring Textual Data
 Version: 0.1.0
 Author: Ujang Fahmi 
 Maintainer: Ujang Fahmi <eppofahmi@gmail.com>
