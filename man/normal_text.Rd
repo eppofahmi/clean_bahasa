@@ -2,7 +2,7 @@
 % Please edit documentation in R/normalise_text.R
 \name{normal_text}
 \alias{normal_text}
-\title{normalise text}
+\title{Normalising in a data frame column}
 \usage{
 normal_text(data_name, col_name, nomral_lex)
 }

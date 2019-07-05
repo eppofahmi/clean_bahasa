@@ -1,4 +1,4 @@
-#' normalise text
+#' Normalising in a data frame column
 #'
 #' Used to nomalised text of a column in a data frame based on user defined
 #' normalisation lexicon
